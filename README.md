@@ -24,11 +24,6 @@ Dans le fichier HTML fourni, faire que le bouton RAZ efface les données des cha
 
 Créer les différentes fonctions Javascript permettant de faire fonctionner les boutons et d'appliquer les styles correspondants.
 
-## Exercice 6 : boucle foreach
-
-Dans le fichier HTML fourni, faire comme dans l'exercice 5 mais remettre l'image d'origine dès que la souris ne survol plus l'image.  
-**Bonus** Ne faire que deux fonctions JavaScript pour cet exercice, pour cela vous devrez utiliser une boucle foreach.
-
-## Exercice 7 : classList.toggle
+## Exercice 6 : classList.toggle
 
 Dans le fichier HTML fourni, ajouter ou retirer la classe 'exemple' aux paragraphes sur simple clic d'un bouton. Le faire avec deux fonctions, puis une seule.
